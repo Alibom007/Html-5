@@ -23,6 +23,10 @@
 
 }
 
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
 .escola-imagem{
     width: 20%;
 }
@@ -42,4 +46,8 @@
 
 .escola-titulo{
     padding: 34px 0;
+}
+
+.imagem-estudante{
+    width: 120px;
 }
