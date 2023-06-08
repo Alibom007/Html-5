@@ -51,7 +51,6 @@ body{
 }
 
 .icone-estudante{
-    padding-bottom: 50px;
     width: 40px;
 }
 
@@ -61,12 +60,12 @@ body{
 }
 
 .estudante-todos{
+    padding-bottom: 50px;
     grid-template-columns: 18% 18% 18% 18% 18%;
     display: grid;
 }
 
 .rodape{
-    width: 555.7%;
     background-color: black;
     text-align: center;
 }
